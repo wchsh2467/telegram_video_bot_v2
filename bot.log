@@ -1,0 +1,97 @@
+2024-11-27 18:19:37,640 - __main__ - ERROR - שגיאה בהפעלת הבוט: bad operand type for unary ~: 'function'
+2024-11-27 18:20:36,408 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-27 18:20:36,410 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:20:36,424 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-27 18:20:38,673 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-27 18:20:38,674 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-27 18:20:38,730 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:20:38,744 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-27 18:20:38,748 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-27 18:20:38,895 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-27 18:20:38,896 - pyrogram.session.session - INFO - Device: CPython 3.13.0 - Pyrogram 2.0.106
+2024-11-27 18:20:38,897 - pyrogram.session.session - INFO - System: Windows 2022Server (en)
+2024-11-27 18:20:38,900 - pyrogram.session.session - INFO - Session started
+2024-11-27 18:20:38,903 - pyrogram.session.session - INFO - PingTask started
+2024-11-27 18:20:38,948 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-27 18:20:38,950 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-27 18:20:38,950 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-27 18:20:38,950 - pyrogram.session.session - INFO - Session stopped
+2024-11-27 18:20:38,964 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-27 18:20:38,965 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:20:38,977 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-27 18:20:40,315 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-27 18:20:40,316 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-27 18:20:40,342 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:20:40,354 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-27 18:20:40,355 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-27 18:20:40,489 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-27 18:20:40,491 - pyrogram.session.session - INFO - Device: CPython 3.13.0 - Pyrogram 2.0.106
+2024-11-27 18:20:40,491 - pyrogram.session.session - INFO - System: Windows 2022Server (en)
+2024-11-27 18:20:40,492 - pyrogram.session.session - INFO - Session started
+2024-11-27 18:20:40,493 - pyrogram.session.session - INFO - PingTask started
+2024-11-27 18:20:40,609 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2024-11-27 18:20:40,611 - py.warnings - WARNING - c:\my.python\telegram_video_bot_v2\main.py:42: RuntimeWarning: coroutine 'VideoService.start' was never awaited
+  video_service.start()
+
+2024-11-27 18:20:40,612 - __main__ - INFO - הבוט התחיל לפעול בהצלחה!
+2024-11-27 18:20:40,613 - __main__ - ERROR - שגיאה בהפעלת הבוט: Client is already connected
+2024-11-27 18:22:15,961 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:22:15,974 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-27 18:22:15,977 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-27 18:22:16,196 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-27 18:22:16,201 - pyrogram.session.session - INFO - Device: CPython 3.13.0 - Pyrogram 2.0.106
+2024-11-27 18:22:16,201 - pyrogram.session.session - INFO - System: Windows 2022Server (en)
+2024-11-27 18:22:16,201 - pyrogram.session.session - INFO - Session started
+2024-11-27 18:22:16,205 - pyrogram.session.session - INFO - PingTask started
+2024-11-27 18:22:16,441 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2024-11-27 18:22:16,442 - __main__ - INFO - הבוט התחיל לפעול בהצלחה!
+2024-11-27 18:22:16,443 - __main__ - ERROR - שגיאה בהפעלת הבוט: 'Client' object has no attribute 'idle'
+2024-11-27 18:22:16,465 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2024-11-27 18:22:16,466 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-27 18:22:16,467 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-27 18:22:16,468 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-27 18:22:16,468 - pyrogram.session.session - INFO - Session stopped
+2024-11-27 18:23:04,662 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:23:04,677 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-27 18:23:04,685 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-27 18:23:04,787 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-27 18:23:04,788 - pyrogram.session.session - INFO - Device: CPython 3.13.0 - Pyrogram 2.0.106
+2024-11-27 18:23:04,795 - pyrogram.session.session - INFO - System: Windows 2022Server (en)
+2024-11-27 18:23:04,796 - pyrogram.session.session - INFO - Session started
+2024-11-27 18:23:04,800 - pyrogram.session.session - INFO - PingTask started
+2024-11-27 18:23:04,867 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2024-11-27 18:23:04,868 - __main__ - INFO - הבוט התחיל לפעול בהצלחה!
+2024-11-27 18:23:04,868 - __main__ - ERROR - שגיאה בהפעלת הבוט: 
+2024-11-27 18:23:04,883 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2024-11-27 18:23:04,884 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-27 18:23:04,885 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-27 18:23:04,885 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-27 18:23:04,886 - pyrogram.session.session - INFO - Session stopped
+2024-11-27 18:25:04,607 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:25:04,621 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-27 18:25:04,623 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-27 18:25:04,768 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-27 18:25:04,769 - pyrogram.session.session - INFO - Device: CPython 3.13.0 - Pyrogram 2.0.106
+2024-11-27 18:25:04,769 - pyrogram.session.session - INFO - System: Windows 2022Server (en)
+2024-11-27 18:25:04,769 - pyrogram.session.session - INFO - Session started
+2024-11-27 18:25:04,774 - pyrogram.session.session - INFO - PingTask started
+2024-11-27 18:25:04,855 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2024-11-27 18:25:04,856 - __main__ - INFO - הבוט התחיל לפעול בהצלחה!
+2024-11-27 18:25:04,867 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2024-11-27 18:25:04,868 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-27 18:25:04,869 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-27 18:25:04,870 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-27 18:25:04,871 - pyrogram.session.session - INFO - Session stopped
+2024-11-27 18:25:04,926 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-27 18:25:04,940 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-27 18:25:04,941 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-27 18:25:05,099 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-27 18:25:05,100 - pyrogram.session.session - INFO - Device: CPython 3.13.0 - Pyrogram 2.0.106
+2024-11-27 18:25:05,101 - pyrogram.session.session - INFO - System: Windows 2022Server (en)
+2024-11-27 18:25:05,102 - pyrogram.session.session - INFO - Session started
+2024-11-27 18:25:05,105 - pyrogram.session.session - INFO - PingTask started
+2024-11-27 18:25:05,304 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2024-11-27 18:28:00,001 - services.user_service - INFO - נטענו 1 משתמשים מורשים
+2024-11-27 18:28:00,002 - __main__ - ERROR - שגיאה בהפעלת הבוט: bad operand type for unary ~: 'function'
+2024-11-27 18:32:29,532 - services.user_service - INFO - נטענו 1 משתמשים מורשים
+2024-11-27 18:40:14,101 - services.user_service - INFO - נטענו 1 משתמשים מורשים

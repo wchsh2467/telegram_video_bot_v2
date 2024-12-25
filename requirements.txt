@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+moviepy==1.0.3
+python-dotenv==1.0.0
+pyyaml==6.0.1
