@@ -4,3 +4,4 @@ venv
 __pycache__
 video_bot.session
 video_bot.session-journal
+.gitignore
